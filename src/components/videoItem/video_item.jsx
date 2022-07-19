@@ -1,4 +1,4 @@
-import styles from './videoItem.module.css';
+import styles from './video_item.module.css';
 import React from 'react';
 
 const VideoItem = ({ video: { snippet } }) => (

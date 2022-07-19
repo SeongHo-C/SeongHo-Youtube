@@ -1,6 +1,6 @@
 import React from 'react';
-import VideoItem from '../videoItem/videoItem';
-import styles from './videoList.module.css';
+import VideoItem from '../videoItem/video_item';
+import styles from './video_list.module.css';
 
 const VideoList = (props) => (
   <ul className={styles.videos}>
